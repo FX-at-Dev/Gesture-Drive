@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# User-specific runtime config (auto-generated on first run)
+config.json
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
